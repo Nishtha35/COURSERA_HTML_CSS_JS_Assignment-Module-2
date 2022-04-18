@@ -50,5 +50,5 @@ Here is the mockup illustration of the mobile version of the site. Your final re
  
  
  
- Link to Github page:- https://nishtha35.github.io/COURSERA_HTML_CSS_JS_Assignment-Module-2/
+Github Page Link:- https://nishtha35.github.io/COURSERA_HTML_CSS_JS_Assignment-Module-2/
  
